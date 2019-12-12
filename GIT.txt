@@ -8,4 +8,10 @@ mkdir (nom dossier) -> creation d 'un dossier
 git init -> initialisation du git 
 git status
 git add (fichier) -> selection d'un fichier 
-git commit -m "(texte)" -> enregistrement du fichier 
+git commit -m "(texte)" -> enregistrement du fichier
+git log -> historique de tes modif av descriptions 
+git branch -> liste de toutes les branches 
+git branch (nom) -> creation d'une branche
+git checkout (nom) -> changement de branche 
+
+je proviens d'une branche diff
