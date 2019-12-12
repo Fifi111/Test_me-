@@ -1,3 +1,11 @@
 		Memo git 
 
 git --version -> connaitre version de ton git 
+
+git config --global user.name "(nom)" -> configuration de ton nom
+git config --global user.email "(adresse)" -> configuratrion de l'adresse email
+mkdir (nom dossier) -> creation d 'un dossier 
+git init -> initialisation du git 
+git status
+git add (fichier) -> selection d'un fichier 
+git commit -m "(texte)" -> enregistrement du fichier 
